@@ -1,0 +1,4 @@
+# Riddle.solution.A.Einstein
+Java based solution to Albert Einsteins's 15 hint/clue/step house riddle.
+
+"This is NOTHING more, than my alpha level version of what it says it is. Read the comments if you wanna know more. Focused ONLY using it as a logic exercise, followed up with a beta level version that will have methods/functions/procedural style code. Followed by a version that is based off that code, but utilizing OOB style House class. Followed up with a better thought out way of storing the String arrays being used for each of the five types of vars that define the House object instantiation, & maybe a sixth type in regards to the location of the House (currently nothing more than a common integer used as a sub [0]-[4] reference. Almost done, uploading it before i lose the code, or something stupid. whatever. WATCH! https://www.twitch.tv/videos/1313413043 to see why I started this silly little logic exercise (not to prove anything at all. EXERCISE only."-JJ
